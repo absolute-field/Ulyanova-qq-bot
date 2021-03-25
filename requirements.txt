@@ -1,0 +1,5 @@
+requests==2.18.4
+graia-application-mirai==0.17.0
+graia-broadcast==0.7.0
+mirai==0.1.5
+kuriyama==0.3.6
